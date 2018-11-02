@@ -1,5 +1,6 @@
 package com.chy.demo;
 
+import lombok.Data;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -11,6 +12,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
+
 	private void test(){
+		String test;
 	}
 }
