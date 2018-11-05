@@ -14,6 +14,6 @@ public class DemoApplication {
 
 
 	private void test(){
-		String test22as1;
+		String test22;
 	}
 }
